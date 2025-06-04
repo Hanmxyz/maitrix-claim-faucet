@@ -8,7 +8,7 @@ const wallets = [
 // use proxy if you have wallet more than 1
 
 const proxys = [
-    "http://proxy67281:proxy67281@45.249.106.254:5951",
+    "http://username:password@host:port",
 ];
 const endpoints = [
     "maitrix-faucet",
