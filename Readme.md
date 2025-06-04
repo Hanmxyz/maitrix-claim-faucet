@@ -1,0 +1,1 @@
+#this script use for automaticalli claim faucet maitrix , for multiple account , use proxy to avoid api rate limiting
